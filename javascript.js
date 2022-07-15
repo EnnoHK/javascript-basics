@@ -67,3 +67,4 @@ console.log(false == 0); // true
 //Comparison with null and undefined
 console.log(null === undefined); // false
 console.log(null == undefined); // true
+
